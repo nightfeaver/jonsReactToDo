@@ -3,7 +3,7 @@ const data = [
 	{
 		id:1,
 		dateCreated:new Date(),
-		task:'find a unicorn',
+		task:'find a golden unicorn',
 		status:'done'
 	},
 
